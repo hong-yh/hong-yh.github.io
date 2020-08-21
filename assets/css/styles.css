@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #3AAA64;
+  color: #52839B;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -31,8 +31,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #5f6b77;
-  color: #2d844e;
+  color: #276582;
 }
 
 a:focus {
@@ -63,16 +62,16 @@ a:focus {
 }
 
 a.btn-cta-primary, .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background: #52839B;
+  border: 1px solid #52839B;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 a.btn-cta-primary:hover, .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #276582;
+  border: 1px solid #276582;
   color: #fff;
 }
 
@@ -451,7 +450,7 @@ a.dotted-link:hover {
 
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #7DA2B4;
 }
 
 .skills .svg-inline--fa {

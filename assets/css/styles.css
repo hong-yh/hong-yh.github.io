@@ -76,16 +76,16 @@ a.btn-cta-primary:hover, .btn-cta-primary:hover {
 }
 
 a.btn-cta-secondary, .btn-cta-secondary {
-  background: #479FC8;
-  border: 1px solid #479FC8;
+  background: #52839B;
+  border: 1px solid #52839B;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 a.btn-cta-secondary:hover, a.btn-cta-secondary:not(:disabled):not(.disabled):active:focus, .btn-cta-secondary:hover, .btn-cta-secondary:not(:disabled):not(.disabled):active:focus {
-  background: #3893bd;
-  border: 1px solid #3893bd;
+  background: #276582;
+  border: 1px solid #276582;
   color: #fff;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
@@ -545,7 +545,7 @@ a.dotted-link:hover {
 }
 
 .languages .item .svg-inline--fa {
-  color: #79d19a;
+  color: #7DA2B4;
 }
 
 /* Blog Section */
